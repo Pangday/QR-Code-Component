@@ -3,6 +3,7 @@ body {
     min-block-size: 100vh;
 }
 
+@media only screen and (max-width: 1500px) {
 .layout {
     width: 375px;
     height: 560px;
@@ -37,4 +38,5 @@ p {
     padding: 0 60px;
     text-align: justify;
     text-align-last: center;
+}
 }
